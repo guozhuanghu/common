@@ -1,0 +1,11 @@
+{
+    "name": "htchar",
+    "version": "1.1.0",
+    "description": "char",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "guozhuanghu",
+    "license": "ISC"
+}
